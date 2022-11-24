@@ -1,7 +1,7 @@
 ### Oioi, eu sou Laisa 👋
 
 ✨ Front-end <br>
-🌱 React e Typescript 
+🌱 React, Next.Js, Typescript 
 
 <div align="initial"><br>
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,6 +9,7 @@
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg">
 </div>
 
 

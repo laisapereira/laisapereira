@@ -1,6 +1,6 @@
 ### Oioi, eu sou Laisa 👋
 
-✨ Full Stack <br>
+✨ Full Stack com foco em frontend <br>
 🌱 Atualmente, desenvolvo projetos e aplicações com ReactJS, Typescript, NodeJS, NextJS, OpenAI, PostgreSQL, TailwindCSS, Express, GraphQL, etc
 
 <div align="initial"><br>

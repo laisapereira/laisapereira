@@ -1,7 +1,7 @@
-### Oioi, eu sou Laisa 👋
+### Hi there, I'm Laisa 👋
 
-✨ Full Stack com foco em frontend <br>
-🌱 Atualmente, desenvolvo projetos e aplicações com ReactJS, Typescript, NodeJS, NextJS, OpenAI, PostgreSQL, TailwindCSS, Express, GraphQL, etc
+✨ I'm a full-stack developer with strong knowledge in frontend development. <br>
+🌱 Nowadays I now develop applications with ReactJS, Typescript, NodeJS, NextJS, and style libs as TailwindCSS. I also have some cool experiences with OpenAI-Langchain integrations, PostgreSQL, GraphQL, etc
 
 <div align="initial"><br>
 <img align="center" alt="CSS" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
